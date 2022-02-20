@@ -4,7 +4,7 @@
 # Tested with ESXi 6.7
 # Doesn't need vCenter, only SSH access to the ESXi machine
 # (c) Pekka "raspi" Jarvinen 2016 http://raspi.fi/
-# (c) Paul iercosan 2022 https://paulierco.ro/
+# (c) Paul Iercosan 2022 https://paulierco.ro/
 
 SWITCH=$1
 OPERATION=$2
